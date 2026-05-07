@@ -1,0 +1,18 @@
+NIHONGO CODEX - CO TU ZMIENILEM
+
+1. Dodalem zakladke "Kana"
+   - cwiczysz hiragane, katakane albo mix,
+   - wpisujesz romaji,
+   - strona liczy proby, dobre odpowiedzi i serie.
+
+2. Dodalem "Dzienne zadania" w Gildii
+   - 10 znakow kana,
+   - 5 powtorek ze Skarbca,
+   - 1 proba Dojo.
+
+3. Odchudzilem wideo
+   - strona uzywa teraz lzejszych plikow z folderu media,
+   - oryginalne MP4 zostawilem w folderze, wiec nic nie przepada,
+   - skompresowane wersje nadal pokazuja scene/postac/ruch, wiec mozna je wrzucac do innych AI bez gubienia sensu.
+
+4. Oryginalny folder "claudus — kopia" nie byl ruszany.
